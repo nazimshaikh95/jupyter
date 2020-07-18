@@ -11,7 +11,7 @@ First navigate to the `/docs` directory and create a `conda` environment:
 conda env create -f environment.yml  
 ```  
 
->>>Activate the environment:
+>>Activate the environment:
 
 ```bash
 source activate jupyter_docs  
